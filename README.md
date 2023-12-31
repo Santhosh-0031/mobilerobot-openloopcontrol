@@ -97,9 +97,7 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-
-
-![output](<WhatsApp Image 2023-12-31 at 08.15.22_71851007.jpg>)
+![WhatsApp Image 2023-12-31 at 08 15 22_1463dba1](https://github.com/Santhosh-0031/mobilerobot-openloopcontrol/assets/145551108/14fc3daf-e5f9-44e9-b3bf-7f54febe7b48)
 
 ## MobileRobot Movement Video:
 
